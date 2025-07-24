@@ -4,7 +4,7 @@
 
 <br>
 
-📌 Proje Hakkında
+📌 Proje Hakkında 
 
 Bu proje, Yapay Zeka Akademisi Final Projesi kapsamında gerçekleştirilmiştir. Projede, Heart Disease UCI veri seti kullanılarak bir sınıflandırma modeli oluşturulmuş ve bireylerin kalp hastalığı riski taşıyıp taşımadığı tahmin edilmeye çalışılmıştır.
 
